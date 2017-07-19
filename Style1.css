@@ -10,3 +10,17 @@ div.page-header {
     margin-bottom: 0px;
 }
 
+/*NavBar Styling*/
+nav#navvy.navbar.navbar-static-top {
+    margin-bottom: 0px;
+    background-color: #6A1525;
+    
+}
+
+#navvy a {
+    color: #FFF6F0;
+}
+
+#navvy a:hover {
+    background: none;
+}

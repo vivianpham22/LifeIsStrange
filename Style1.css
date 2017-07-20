@@ -30,7 +30,8 @@ nav#navvy.navbar.navbar-static-top {
     background: none;
 }
 
-/* Trailer Styling */
+
+/* Trailer Syling */
 
 .mainSec {
     background-image: url('Images/junkyard.jpg');
@@ -46,4 +47,13 @@ h1.container#trailer {
 .previewThem {
         margin: auto;
 }
+
+
+/* Button */
+button.navbar-toggle {
+    border: 1px solid #FFF6F0;
+}
+
+span.icon-bar {
+    border: 1px solid #FFF6F0;
 
